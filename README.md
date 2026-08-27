@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1346758899.svg)](https://doi.org/10.5281/zenodo.22133026)
+
 # Electronic Tunability of Supported Au-Based Bimetallic Clusters for Catalyst Design
 
 This repository contains the structural data for the research article **"Electronic Tunability of Supported Au-Based Bimetallic Clusters for Catalyst Design"**. 
