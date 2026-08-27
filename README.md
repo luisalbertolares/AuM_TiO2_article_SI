@@ -66,7 +66,7 @@ This work was performed, in part, by Center for Integrated Nanotechnologies, a U
 
 If you use these geometries or structural models in your work, please cite the corresponding publication:
 
-> *(Placeholder for full citation, journal name, and DOI once the article is published)*
+> *(Placeholder for full citation)*
 
 ## License
 
