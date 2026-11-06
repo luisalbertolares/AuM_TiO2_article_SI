@@ -70,4 +70,4 @@ If you use these geometries or structural models in your work, please cite the c
 
 ## License
 
-This dataset is distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt the material for any purpose as long as you give appropriate credit to the original authors and the associated publication.
+
